@@ -65,8 +65,8 @@ kramdown:
   clientID: 119ff4476d663457849c                            #生成的clientID
   clientSecret: 2a350f57409adbbac3d6cf6b44eb7d885f9a341b    #生成的clientSecret
   repo: acfun-game.github.io    #仓库名称
-  owner: acfungame    #github用户名
-  admin: acfungame
+  owner: acfun-game    #github用户名
+  admin: acfun-game
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
