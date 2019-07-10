@@ -25,7 +25,7 @@ header-img: "img/tag-bg.jpg"
 		<div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
             
             <!-- Blog标签 -->
-			tag = site.tags[0]
+			{% for tag in (1..site.tags) %}
 			<div class="one-tag-list">
 			  	<span class="fa fa-tag listing-seperator" id="{{ tag[0] }}">
                     <span class="tag-text">{{ tag[0] }}</span>
@@ -51,6 +51,7 @@ header-img: "img/tag-bg.jpg"
 				<hr>
 				{% endfor %}
 			</div>
+			{% endfor %}
 
 		</div>
 	</div>
