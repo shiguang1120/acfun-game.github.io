@@ -60,7 +60,7 @@ kramdown:
 # disqus_username: acfun-game
 
 # Gitalk
-#gitalk:
+gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 119ff4476d663457849c                            #生成的clientID
   clientSecret: 2a350f57409adbbac3d6cf6b44eb7d885f9a341b    #生成的clientSecret
