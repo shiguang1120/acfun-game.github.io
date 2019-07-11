@@ -62,8 +62,8 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 119ff4476d663457849c                            #生成的clientID
-  clientSecret: 2a350f57409adbbac3d6cf6b44eb7d885f9a341b    #生成的clientSecret
+  clientID: 865676859d6058dc9da5           #生成的clientID
+  clientSecret: 4bfb140099a093cd84c22bbb518fed8ad8c4a766    #生成的clientSecret
   repo: acfun-game.github.io    #仓库名称
   owner: acfun-game    #github用户名
   admin: acfun-game
