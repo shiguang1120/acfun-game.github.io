@@ -1,12 +1,12 @@
 ---
-layout:     post   				    # 使用的布局（不需要改）
-title:      AcFun官方游戏频道以及H5游戏 				# 标题 
-subtitle:   第一篇文章，先推广官方的游戏以及列表  #副标题
-date:       2019-07-11 				# 时间
-author:     时光 						# 作者
-header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
-catalog: true 						# 是否归档
-tags:								#标签
+layout:     post
+title:      AcFun官方游戏频道以及H5游戏
+subtitle:   第一篇文章，先推广官方的游戏以及列表
+date:       2019-07-11
+author:     时光
+header-img: img/post-bg-2015.jpg
+catalog: true
+tags:
     - Game
     - Blog
 ---
